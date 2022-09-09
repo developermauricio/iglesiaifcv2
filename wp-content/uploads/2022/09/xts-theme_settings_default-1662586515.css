@@ -216,3 +216,7 @@ body{
 	src: url("//ifc.aicode-test.art/wp-content/themes/woodmart/fonts/woodmart-font.woff2?v=6.5.4") format("woff2");
 }
 
+.wd-toolbar {
+    Display:none !important; 
+    
+}
